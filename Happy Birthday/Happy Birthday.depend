@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1634450733 source:d:\desktop\c++\happy birthday\main.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	<iomanip>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+
